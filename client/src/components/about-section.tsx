@@ -59,10 +59,14 @@ const AboutSection = () => {
           <div className="space-y-6">
             <h3 className="text-2xl font-semibold mb-4" data-testid="about-subtitle">sv</h3>
             <p className="text-muted-foreground leading-relaxed" data-testid="about-description-1">
-              YOUR_ABOUT_DESCRIPTION_1_HERE
+            With over 5 years of experience in software development, I've evolved from a traditional full-stack developer 
+              to an AI-focused engineer. My journey started with Java and Python backends, expanded into modern React frontends, 
+              and now encompasses cutting-edge AI and machine learning technologies.
             </p>
             <p className="text-muted-foreground leading-relaxed" data-testid="about-description-2">
-              YOUR_ABOUT_DESCRIPTION_2_HERE
+            I specialize in building AI-powered applications that bridge the gap between complex algorithms and intuitive user experiences. 
+              Whether it's creating intelligent agents, developing RAG systems, or building scalable web applications, 
+              I'm passionate about leveraging technology to create meaningful solutions.
             </p>
             
             <div className="flex flex-wrap gap-4 mt-8">
