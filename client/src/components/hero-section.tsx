@@ -31,8 +31,7 @@ const HeroSection = () => {
           </p>
           
           <p className="text-lg text-muted-foreground max-w-2xl mx-auto mb-8 leading-relaxed" data-testid="hero-description">
-            YOUR_DESCRIPTION_HERE
-          </p>
+          Passionate about crafting innovative solutions to enhance telecom services. Experienced in OSS/BSS Architecture, I thrive on tackling complex challenges to drive technological advancements. An AI enthusiast, I am committed to continuous learning and collaborative problem-solving. Let's connect and explore opportunities in the dynamic world of telecommunications and artificial intelligence!          </p>
           
           <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
             <Button 

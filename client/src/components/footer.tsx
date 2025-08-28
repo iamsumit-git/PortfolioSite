@@ -31,8 +31,7 @@ const Footer = () => {
           <div>
             <h3 className="text-xl font-bold mb-4" data-testid="footer-name">Sumit Vijay</h3>
             <p className="text-muted-foreground mb-4" data-testid="footer-description">
-              YOUR_DESCRIPTION_HERE
-            </p>
+            Passionate about crafting innovative solutions to enhance telecom services. Experienced in OSS/BSS Architecture, I thrive on tackling complex challenges to drive technological advancements. An AI enthusiast, I am committed to continuous learning and collaborative problem-solving. Let's connect and explore opportunities in the dynamic world of telecommunications and artificial intelligence!            </p>
             <div className="flex space-x-4">
               <a 
                 href="https://github.com" 
