@@ -1,6 +1,6 @@
 # Overview
 
-This is a personal portfolio website built as a full-stack application showcasing the work and experience of Alex Johnson, a Full Stack Developer and AI Engineer. The application features a modern React frontend with a Node.js/Express backend, designed to present projects, experience, and provide contact functionality. The portfolio emphasizes AI projects and web development work, with a clean, professional design using shadcn/ui components and Tailwind CSS.
+This is a personal portfolio website built as a full-stack application showcasing the work and experience of SumitVijay , a Full Stack Developer and AI Engineer. The application features a modern React frontend with a Node.js/Express backend, designed to present projects, experience, and provide contact functionality. The portfolio emphasizes AI projects and web development work, with a clean, professional design using shadcn/ui components and Tailwind CSS.
 
 # User Preferences
 
